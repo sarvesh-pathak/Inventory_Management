@@ -6,13 +6,21 @@
 
 
 Database stores In&Out of products and stores them in cloudant db
+
 <img width="754" alt="Screenshot 2024-11-25 at 9 30 39 PM" src="https://github.com/user-attachments/assets/d71f72fd-174f-401e-bbc6-ed7b0e36caf8">
 
 
+
+
 Data is generated aritficially in Node Red
+
+
 <img width="562" alt="Screenshot 2024-11-25 at 9 31 28 PM" src="https://github.com/user-attachments/assets/1578ff95-3be6-42b2-a2eb-509a1978ad2e">
 
 
 
+
+
 Got this certification on successful completion of this project
+
 <img width="467" alt="Screenshot 2024-11-25 at 9 20 09 PM" src="https://github.com/user-attachments/assets/a3b9f406-0c56-4af1-8444-9067ab7db486">
